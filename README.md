@@ -297,5 +297,3 @@ Outputs: `backend_url`, `ui_url`, `evals_url`, `ingestion_url`
 ---
 
 *Built for High-Scale Enterprise Document Intelligence.*
-#   E n t e r p r i s e - r a g  
- 
